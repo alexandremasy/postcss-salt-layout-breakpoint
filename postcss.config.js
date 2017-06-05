@@ -4,17 +4,17 @@ var layout = {
   grid: {
     base:		"16px",
     columns: 	12,
-    gutter:	 	.5,
-    sizes:{
-      xxs:    	.25,
-      xs:     	.5,
-      s:      	.75,
-      m:      	1,
-      l:      	1.5,
-      xl:     	2,
-      xxl:    	4
+    gutter:	 	0.5,
+    sizes: {
+      xxs:    	0.25,
+      xs:     	0.50,
+      s:      	0.75,
+      m:      	1.00,
+      l:      	1.50,
+      xl:     	2.00,
+      xxl:    	4.00
     }
-  )
+  },
 
   breakpoints: {
     xxs:    	"320px",
