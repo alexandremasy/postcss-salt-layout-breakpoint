@@ -1,0 +1,47 @@
+html
+{
+  /* font: <name> <weight> <style> <size>:<line-height>*/
+  #font: heading normal xxs/m;
+  font: 16px;
+
+  /* font-family: <name>; */
+  #font-family: heading;
+
+  /* font-weight: <name>/<value> */
+  #font-weight: heading/normal;
+
+  /* font-size: <name>/<value> */
+  #font-size: heading/xxs;
+
+  /* line-height <name>/<value> */
+  #line-height: heading/xxs;
+
+  /* font-style: <name>/<value> */
+  #font-style: heading/italic;
+
+  color: red;
+}
+
+body
+{
+  /* font: <name> <weight> <style> <size>:<line-height>*/
+  #font: body normal xxs/m;
+  font: 16px;
+
+  /* font-family: <name>; */
+  #font-family: body;
+
+  /* font-weight: <name>/<value> */
+  #font-weight: bold;
+
+  /* font-size: <name>/<value> */
+  #font-size: xxs;
+
+  /* line-height <name>/<value> */
+  #line-height: xxs;
+
+  /* font-style: <name>/<value> */
+  #font-style: italic;
+
+  color: red;
+}
